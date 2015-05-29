@@ -180,6 +180,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ## Resources
 
 - [Vogella Tutorials](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
+- [Learn Android Online](https://www.codementor.io/learn-android-development)- Android Learning Guide for Beginners
 - [Android Design in Action Video series] (https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) The video series by Android Design Team of Google.
 - [Android Design in Action slides] (https://play.google.com/store/apps/details?id=com.astuetz.android.adia&feature=md)- The application that gives you access to the slides of the video series.
 - [Android DevBytes Video Series] (https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) - It is the technical counterpart of Android Design in Action series.
